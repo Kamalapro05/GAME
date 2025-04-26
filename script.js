@@ -1,14 +1,4 @@
-/*
 
-Learn how to code this watch step by step on YouTube:
-
-https://www.youtube.com/watch?v=ccYrSACDNsw
-
-or on:
-
-https://javascriptgametutorials.com/
-
-*/
 
 import React, { useRef, useEffect } from "https://esm.sh/react";
 import { createRoot } from "https://esm.sh/react-dom/client";
